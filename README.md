@@ -1,2 +1,2 @@
-# meu-candidato
+# Meu Candidato
 http://www.meucandidato.org
